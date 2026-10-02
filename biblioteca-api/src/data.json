@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "Ana Silva",
+    "libro": "Clean Code - Edição Revisada",
+    "devolvidoEm": null
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Bruno",
+    "libro": "Refatoração",
+    "devolvidoEm": "2026-10-01T12:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "nomeAluno": "Carla",
+    "libro": "Arquitetura Limpa",
+    "devolvidoEm": "2026-10-02T18:15:49.063Z"
+  },
+  {
+    "id": 4,
+    "nomeAluno": "Diego",
+    "libro": "Código Limpo",
+    "devolvidoEm": null
+  }
+]
